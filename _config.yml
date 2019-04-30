@@ -18,7 +18,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "localhost:4000" # the base hostname & protocol for your site
+url: "https://codechiconference.com" # the base hostname & protocol for your site
 cover: "/assets/computer.jpg"
 logo: "/assets/codechi_logo.png"
 
