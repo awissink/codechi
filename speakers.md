@@ -27,3 +27,9 @@ Amelia Chaltin is a 2019 Graduate of the Illinois Institute of Technology with a
 ![](/assets/deena.jpg)
 
 Deena Tenzer is a Software Engineer at AT&T. She is a Chicago native and received her B.S in Mathematics and Computer Science from the University of Wisconsin-Madison in 2016. Deena returned to Chicago after school to join AT&T, and immediately volunteered to be one of the facilitators for Walter Payton's Girls Who Code club. Outside of work, Deena invests time in continuing her education by studying and completing nanodegrees through Udacity. When Deena isn't glued to her computer screen, she spends time figure skating, traveling, and spending time outside.
+
+**PANELISTS**
+
+**Amy B. Woodson**
+
+I lead IT transformation work, currently as part of Accenture’s Enterprise IT organization. After years in application strategy and delivery work (half in Consulting, half in Enterprise IT), I now focus on infrastructure and Cloud.
