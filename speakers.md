@@ -33,3 +33,8 @@ Deena Tenzer is a Software Engineer at AT&T. She is a Chicago native and receive
 **Amy B. Woodson**
 
 I lead IT transformation work, currently as part of Accenture’s Enterprise IT organization. After years in application strategy and delivery work (half in Consulting, half in Enterprise IT), I now focus on infrastructure and Cloud.
+
+**Olivia Graham**
+![](/assets/olivia.png)
+
+I’m currently an Engineer at AT&T in an organization called Flex Force, the company’s internal technology development consultancy. I graduated from Indiana University Bloomington with a B.S. Informatics and Computing – go Hoosiers! In my free time I love to go to Cubs games with my friends, painting and hanging out with any animals I can. I’m passionate about continuing education and you can find me always learning new things.
