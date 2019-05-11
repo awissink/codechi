@@ -12,9 +12,10 @@ permalink: /schedule/
 12:05-12:15: T-Shirt Pick-Up!
 
 
-Workshops:
-Tic-Tac-Code: Beginner Python, Room 210, led by Amelia Chaltin
+**Workshops:**  
 
-Encryption Intro, Room 212, led by Deena Tenzer
+Tic-Tac-Code: Beginner Python, Room 210, led by Amelia Chaltin  
 
-E-Circuit Workshop, Room 216, led by Vida Winans
+Encryption Intro, Room 212, led by Deena Tenzer  
+
+E-Circuit Workshop, Room 216, led by Vida Winans 
