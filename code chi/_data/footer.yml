@@ -1,0 +1,18 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: Speakers
+      link: /speakers/
+    - name: Schedule
+      link: /schedule/
+    - name: Contact
+      link: /contact/
+    - name: Register
+      link: /register/
+- title: Social
+  links:
+    - name: Instagram
+      link: http://instagram.com/code_chi
+      social_icon: Instagram
+      new_window: true
