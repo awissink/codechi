@@ -20,7 +20,7 @@ header {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: calc(50% - 40px) 175px;
-	height: 420px;
+	height: auto;
 	box-sizing: border-box;
 
 	.container {
@@ -84,7 +84,6 @@ section {
 
 .content img {
 	max-width: 100%;
-	max-height: 100%;
 	height: auto;
 	border-radius: 2px;
 }
@@ -118,7 +117,7 @@ section {
 	padding: 0;
 
 	#map {
-		height: 200px;
+		height: auto;
 	}
 }
 
